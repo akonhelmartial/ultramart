@@ -11,18 +11,25 @@ const stores = [
     isOpen: true,
   },
   {
-    name: "Ultramart — Gros Islet",
-    address: "Dauphin Street, Gros Islet",
+    name: "Ultramart — Castries Micoud Street",
+    address: "Micoud Street, Castries",
     hours: "Mon–Sat 7AM–8PM, Sun 8AM–2PM",
-    phone: "(758) 450-XXXX",
+    phone: "(758) 453-XXXX",
     isOpen: true,
   },
   {
-    name: "Ultramart — Vieux Fort",
-    address: "Commercial Street, Vieux Fort",
-    hours: "Mon–Sat 7:30AM–7PM, Sun 9AM–1PM",
+    name: "Ultramart — Castries, Marchand",
+    address: "Marchand Road, Castries",
+    hours: "Mon–Sat 7AM–8PM, Sun 8AM–2PM",
     phone: "(758) 454-XXXX",
-    isOpen: false,
+    isOpen: true,
+  },
+  {
+    name: "Ultramart — Corinth",
+    address: "Corinth Highway, Gros Islet",
+    hours: "Mon–Sat 7AM–8PM, Sun 8AM–2PM",
+    phone: "(758) 450-XXXX",
+    isOpen: true,
   },
 ];
 
